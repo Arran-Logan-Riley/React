@@ -1,0 +1,19 @@
+.box{
+    display: inline-block;
+    
+    padding-top: -20px;
+    padding-right: 25px;
+    padding-left: 25px;
+    text-align: center;
+    margin: 20px;
+    border: 3px solid white;
+    background-color: #f7afcb;
+    
+    
+}
+.box:hover {
+    background-color: rgb(255, 215, 230);
+    cursor: pointer;
+    border-color: rgb(255, 139, 139);
+}
+
